@@ -14,7 +14,9 @@ This project provides a tool for encrypting and decrypting text. It uses basic c
     ```bash
     git clone https://github.com/Bhavya312007/Encrypter-Decrypter
     ```
-2. Open `index.html` in your browser to use the encrypter-decrypter tool locally.
+2. Run main.py to use the encrypter-decrypter tool locally.
+
+3. Make sure to install requirements first
 
 ## Technologies Used
 
