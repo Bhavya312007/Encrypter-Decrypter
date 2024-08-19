@@ -16,13 +16,11 @@ This project provides a tool for encrypting and decrypting text. It uses basic c
     ```
 2. Run main.py to use the encrypter-decrypter tool locally.
 
-3. Make sure to install requirements first
+3. Make sure to install requirements first. Python 3.9 used
 
 ## Technologies Used
 
-- HTML
-- CSS
-- JavaScript
+- python 3.9
 
 ## Contributing
 
